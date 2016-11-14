@@ -9,3 +9,4 @@
 - 安全
 
 ##计算机基础
+基础单位：bit, byte, KB, MB, GB, TB
