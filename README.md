@@ -21,11 +21,6 @@
 ##计算机基础
 基础单位：bit, byte, kb, M, G, T
 
-##硬件性能评估
-- vmstat 查看进程数，cpu情况 us+sy>80% cpu不足
-- free -g +buffers 应用程序可用内存
-- iostat -xdk 1 %util=100% 磁盘满， await>wvctm IO等待，= 良好
-- top loadavg > cpu数，线程过多，-H -p 显示线程
 ##二分查找
 ```java
 public static int binarySearch(int[] arry, int low, int height, int desc){
@@ -47,3 +42,8 @@ public static int binarySearch(int[] arry, int low, int height, int desc){
     	return -1;
     }
 ```
+##硬件性能评估
+- vmstat 查看进程数，cpu情况 us+sy>80% cpu不足
+- free -g +buffers 应用程序可用内存
+- iostat -xdk 1 %util=100% 磁盘满， await>wvctm IO等待，= 良好
+- top loadavg > cpu数，线程过多，-H -p 显示线程
