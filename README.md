@@ -23,10 +23,8 @@
 
 ##高可用架构
 - web缓存
- - memcached 
-  - 内存结构：slab机制-有初始化容量，采用LRU策略
- - redis 有数据结构的缓存
-  - 内存结构：HASH+链表+自定义数据结构
+ - memcached 内存结构：slab机制-有初始化容量，采用LRU策略
+ - redis 内存结构：HASH+链表+自定义数据结构
 - DNS
 - CND
 
