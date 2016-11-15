@@ -2,6 +2,7 @@
  - [基础](#计算机基础)
  - 微服务SpringCloud
  - Socket
+ - [架构](#高可用架构)
 - 数据库
  - 主从
 - 数据结构
@@ -10,8 +11,7 @@
  - BitMap
  - BloomFilter
  - RingBuffer
-- DNS
-- CND
+
 - 监控
  - [硬件性能评估](#硬件性能评估)
  - 日志规范
@@ -20,6 +20,11 @@
 
 ##计算机基础
 基础单位：bit, byte, kb, M, G, T
+
+##高可用架构
+- 缓存
+- DNS
+- CND
 
 ##二分查找
 ```java
