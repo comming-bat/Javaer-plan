@@ -31,7 +31,7 @@
 	- 集群
 - 负载均衡
 
-	LVS ，Nginx， Apache， dns， cdn
+		LVS ，Nginx， Apache， dns， cdn
 
 ##二分查找
 ```java
