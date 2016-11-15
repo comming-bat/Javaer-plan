@@ -34,7 +34,7 @@
 - SOA
 	- rpc
 	
-		thrift，dubbo，dubbox
+			thrift，dubbo，dubbox
 	- SpringCloud
 
 ##二分查找
