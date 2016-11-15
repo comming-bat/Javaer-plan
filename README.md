@@ -25,7 +25,7 @@
  - memcached 内存结构：slab机制-有初始化容量，采用LRU策略 [参考](http://blog.itpub.net/15480802/viewspace-1422370/)
  - redis 内存结构：HASH+链表+自定义数据结构  [参考1](http://www.searchtb.com/2011/05/redis-storage.html) [参考2](http://blog.csdn.net/yfkiss/article/details/23775917)
  - 数据库
- 	- B+树
+   - B+树
 - DNS
 - CND
 
