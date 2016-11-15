@@ -29,8 +29,9 @@
 	- LSM-Tree
 	- 主从
 	- 集群
-- DNS
-- CND
+- 负载均衡
+
+	LVS ，Nginx， Apache， dns， cdn
 
 ##二分查找
 ```java
