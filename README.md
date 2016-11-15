@@ -2,7 +2,7 @@
  - [基础](#计算机基础)
  - 微服务SpringCloud
  - Socket
- - [架构](#高可用架构)
+ - [高可用架构](#高可用架构)
 - 数据库
  - 主从
 - 数据结构
@@ -22,7 +22,9 @@
 基础单位：bit, byte, kb, M, G, T
 
 ##高可用架构
-- 缓存
+- web缓存
+ - memcached slab机制，LRU策略
+ - redis 有数据结构的缓存
 - DNS
 - CND
 
