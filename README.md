@@ -5,6 +5,7 @@
 
 - 数据结构
  - [二分查找](#二分查找)
+ - [B+ tree](#B+ tree)
  - 归并
  - BitMap
  - BloomFilter
@@ -57,6 +58,10 @@ public static int binarySearch(int[] arry, int low, int height, int desc){
     	}
     	return -1;
     }
+```
+##B+ tree [参考](http://www.ruzuojun.com/topic/420.html)
+```
+聚集索引、非聚集索引
 ```
 ##硬件性能评估
 - vmstat 查看进程数，cpu情况 us+sy>80% cpu不足
