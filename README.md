@@ -26,7 +26,7 @@
 3.每天花3个小时
 4.学习的过程中尽量去造轮子
 ```
-[参考](http://www.cnblogs.com/wilsonwen/archive/2013/05/22/3093383.html)
+[参考1](http://www.cnblogs.com/wilsonwen/archive/2013/05/22/3093383.html) [参考2](http://www.cnblogs.com/wilsonwen/archive/2013/05/26/3100025.html)
 ##计算机基础
 基础单位：bit, byte, kb, M, G, T
 
