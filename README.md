@@ -59,8 +59,9 @@ public static int binarySearch(int[] arry, int low, int height, int desc){
     	return -1;
     }
 ```
-##B+ tree [参考](http://www.ruzuojun.com/topic/420.html)
+##B+ tree
 ```
+[参考](http://www.ruzuojun.com/topic/420.html)
 聚集索引、非聚集索引
 ```
 ##硬件性能评估
