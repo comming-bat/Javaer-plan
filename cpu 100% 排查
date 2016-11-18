@@ -2,8 +2,7 @@
 运行环境：Java HotSpot(TM) 64-Bit Server VM (build 17.1-b03, mixed mode)
 
 1.确定占cpu高的进程 命令：top  注：top默认按cpu占比排序，按快捷键1查看每个逻辑cpu的情况,如图：
-
-
+![filehelper_1479488110970_2.png](./img/filehelper_1479488110970_2.png)
 2.确定占CPU高的线程 命令：top -H -p pid
 如图：
 
