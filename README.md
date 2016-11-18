@@ -34,7 +34,7 @@
 
 1. 代码是如何在cpu执行的
 2. 程序是如何编译的
-3. 基础数据是如何存储的，float，int
+3. 基础数据是如何存储的，[float](http://www.cnblogs.com/xugang/archive/2010/05/04/1727431.html)，int
 4. Unicode [字符编码笔记：ASCII，Unicode和UTF-8](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)
 
 二、[计算机科学cs50：程序算法](http://open.163.com/special/opencourse/cs50.html)  [算法导论](http://open.163.com/special/opencourse/algorithms.html)
