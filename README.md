@@ -2,7 +2,8 @@
 ##目录
 - [刚开始](#刚开始)
 - java
- - [基础](#计算机基础)
+ - [计算机基础](#计算机基础)
+ - [JAVA基础](#JAVA基础)
  - [高可用架构](#高可用架构)
 
 - 数据结构
@@ -12,7 +13,6 @@
  - 归并
  - BitMap
  - BloomFilter
- - RingBuffer
  - 进程和线程
 
 - 监控
@@ -42,6 +42,20 @@
 1. 复杂度
 2. 增长阶数
 3. 渐进性
+
+三、CPU缓存，L1，L2，L3和伪共享
+
+1. RingBuffer
+
+##JAVA基础
+一、 JVM
+
+1. Java内存模型
+2. Java内存管理
+3. Java堆和栈
+4. 垃圾回收
+5. JVM各种参数及调优
+6. jps, jstack, jmap, jconsole, jinfo, jhat, javap
 
 ##高可用架构
 - web缓存
