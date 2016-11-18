@@ -13,6 +13,7 @@
  - BitMap
  - BloomFilter
  - RingBuffer
+ - 进程和线程
 
 - 监控
  - [硬件性能评估](#硬件性能评估)
@@ -34,6 +35,7 @@
 1. 代码是如何在cpu执行的
 2. 程序是如何编译的
 3. 基础数据是如何存储的，float，int
+4. Unicode
 
 二、[计算机科学cs50：程序算法](http://open.163.com/special/opencourse/cs50.html)  [算法导论](http://open.163.com/special/opencourse/algorithms.html)
 
@@ -54,10 +56,14 @@
 
 		LVS ，Nginx， Apache， dns， cdn
 - SOA
-	- rpc
+	- rpc 序列化,和队列化的系统
 	
 			thrift，dubbo，dubbox
 	- SpringCloud
+- 高可用算法
+	- Paxos 一致性算法:
+	- 一致性哈希
+- 缓存
 
 ##基础数据类型
 
