@@ -28,11 +28,13 @@
 ```
 [参考1](http://www.cnblogs.com/wilsonwen/archive/2013/05/22/3093383.html) [参考2](http://www.cnblogs.com/wilsonwen/archive/2013/05/26/3100025.html)
 ##计算机基础
-基础单位：bit, byte, kb, M, G, T
+一、基础单位：bit, byte, kb, M, G, T
 
 1. 代码是如何在cpu执行的
 2. 程序是如何编译的
-3. 基础数据是如何存储的
+3. 基础数据是如何存储的，float，int
+
+二、[计算机科学cs50：程序算法](http://open.163.com/special/opencourse/cs50.html)
 
 ##高可用架构
 - web缓存
