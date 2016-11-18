@@ -6,6 +6,7 @@
  - [高可用架构](#高可用架构)
 
 - 数据结构
+ - [基本数据类型](#基础数据类型)
  - [二分查找](#二分查找)
  - [B+ tree](#B-tree)
  - 归并
@@ -34,7 +35,11 @@
 2. 程序是如何编译的
 3. 基础数据是如何存储的，float，int
 
-二、[计算机科学cs50：程序算法](http://open.163.com/special/opencourse/cs50.html)
+二、[计算机科学cs50：程序算法](http://open.163.com/special/opencourse/cs50.html)  [算法导论](http://open.163.com/special/opencourse/algorithms.html)
+
+1. 复杂度
+2. 增长阶数
+3. 渐进性
 
 ##高可用架构
 - web缓存
@@ -53,6 +58,16 @@
 	
 			thrift，dubbo，dubbox
 	- SpringCloud
+
+##基础数据类型
+
+一、数组
+二、链表
+三、堆栈
+四、队列
+五、哈希
+六、树
+七、字典
 
 ##二分查找
 ```java
