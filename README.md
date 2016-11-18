@@ -33,6 +33,7 @@
 1. 代码是如何在cpu执行的
 2. 程序是如何编译的
 3. 基础数据是如何存储的
+
 ##高可用架构
 - web缓存
  - memcached 内存结构：slab机制-有初始化容量，采用LRU策略 [参考](http://blog.itpub.net/15480802/viewspace-1422370/)
