@@ -20,7 +20,8 @@
  - 日志规范
  - 进程监控
 - 安全
-
+- 扩展知识
+ - [爬虫](#爬虫)
 ##刚开始
 ```
 1.每家公司都会随机挑选几个工程师出来面试，每个人有自己的风格，其中有失败的也是比较正常的，接下来要做的就是准备好每一次面试
@@ -120,3 +121,7 @@ public static int binarySearch(int[] arry, int low, int height, int desc){
 - free -g +buffers 应用程序可用内存
 - iostat -xdk 1 %util=100% 磁盘满， await>wvctm IO等待，= 良好
 - top loadavg > cpu数，线程过多，-H -p 显示线程
+
+##爬虫
+一、[参考](https://www.zhihu.com/question/31427895
+一、
