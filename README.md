@@ -23,6 +23,7 @@
 - 扩展知识
  - [爬虫](#爬虫)
  - [网络](#网络)
+ - [操作系统](#Linux)
 
 ##刚开始
 ```
@@ -130,3 +131,8 @@ public static int binarySearch(int[] arry, int low, int height, int desc){
 
 ##网络
 一、TCP/IP 模型 [四层](http://blog.csdn.net/superjunjin/article/details/7841099)	[七层](http://blog.csdn.net/yaopeng_2005/article/details/7064869)	[三次握手](http://geek.csdn.net/news/detail/114503)
+
+##Linux
+一、Shell
+
+二、VIM
