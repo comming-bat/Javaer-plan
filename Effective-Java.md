@@ -29,3 +29,26 @@
   ```
 
 二、对于所有对象的通用方法
+
+1. equals 和 hashCode的约定
+
+  ```
+  equal相等hashCode相等
+  ```
+2. 覆盖toString()
+
+  ```
+  打日志时不覆盖看到的是地址
+  ```
+3. 复制对象不要用自带的clone
+
+  ```
+  因为clone会调用supper.clone()，而我们并不能确定supper很好的实现了clone方法
+  ```
+4. 实现Comparable接口
+
+  ```
+  也可以不实现，在使用的时候写
+  ```
+  
+三、类和接口
