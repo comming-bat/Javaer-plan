@@ -43,7 +43,7 @@
 3. 复制对象不要用自带的clone
 
   ```
-  因为clone会调用supper.clone()，而我们并不能确定supper很好的实现了clone方法
+  因为clone会调用supper.clone()，而我们并不能确定supper很好的实现了clone方法，对象中包含引用就挂了，方便起见可以使用序列化
   ```
 4. 实现Comparable接口
 
