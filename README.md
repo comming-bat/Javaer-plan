@@ -87,11 +87,17 @@
 ##基础数据类型
 
 一、数组
+
 二、链表
+
 三、堆栈
+
 四、队列
-五、哈希
+
+五、HashMap 面试[参考1](http://www.admin10000.com/document/3322.html) [hashMap源码解读](https://my.oschina.net/boxizen/blog/177744)
+
 六、树
+
 七、字典
 
 ##二分查找
