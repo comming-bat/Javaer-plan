@@ -94,7 +94,7 @@
 
 四、队列
 
-五、HashMap 面试[参考1](http://www.admin10000.com/document/3322.html) [hashMap源码解读](https://my.oschina.net/boxizen/blog/177744)
+五、HashMap [面试参考1](http://www.admin10000.com/document/3322.html) [hashMap源码解读](https://my.oschina.net/boxizen/blog/177744) [HashMap死循环](http://ifeve.com/hashmap-infinite-loop/)
 
 六、树
 
