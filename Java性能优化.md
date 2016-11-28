@@ -33,7 +33,7 @@
  ```
 2. JVM参数设置
  ```
- -Xmx -Xms 对堆内存设置，Xmn 设置新生代大小， -XX:MaxPermSize 方法区常量， -Xss 栈大小， -XX:+PrintGCDDetails 打印GC信息，
+ -Xmx -Xms 对堆内存设置，Xmn 设置新生代大小， -XX:MaxPermSize 方法区常量， -Xss 栈大小， -XX:+PrintGCDDetails 打印GC信息，-Xloggc:gc.log 
  -XX:survivorRatio=2 设置新生代的比率
  ```
  
