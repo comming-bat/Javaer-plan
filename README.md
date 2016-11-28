@@ -61,6 +61,8 @@
 5. JVM各种参数及调优
 6. jps, jstack, jmap, jconsole, jinfo, jhat, javap
 
+[参考](./Java性能优化.md)
+
 ##高可用架构
 - web缓存
  - 缓存策略 [参考1](http://baotiao.github.io/2016/09/14/cache-policy/)
