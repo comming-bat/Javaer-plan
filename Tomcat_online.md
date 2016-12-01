@@ -1,8 +1,10 @@
 ##生产环境Tomcat需要修改的配置
+
 1. catilina.sh
 ```
 JAVA_OPTS="-server -Xms1024m -Xmx1024m -XX:PermSize=192m -XX:MaxPermSize=192m"
 ```
+
 2. 对catalina.out日志做每日切分
 ```
 使用cronolog工具分割
@@ -36,5 +38,7 @@ c、 修改启动脚本参数
       org.apache.catalina.startup.Bootstrap "$@" start 2>&1 \
       | /usr/local/sbin/cronolog "$CATALINA_OUT" >> /dev/null &
 ```
+
 3. 配置tomcat-users方便管理
+
 4. log4j的动态加载配置
